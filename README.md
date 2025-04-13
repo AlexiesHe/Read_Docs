@@ -1,1 +1,1 @@
-[![Documentation Status](https://app.readthedocs.org/projects/alexies-he-read-docs/builds/?version__slug=latest)](https://alexies-he-read-docs.readthedocs.io/en/latest/)
+[![Documentation Status](https://github.com/riscv-mcu/e203_hbirdv2/workflows/Deploy%20Documentation/badge.svg)](https://alexies-he-read-docs.readthedocs.io/en/latest/)
